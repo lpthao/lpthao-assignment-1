@@ -1,0 +1,6 @@
+1. 
+- How to check a variable's type? => use the type() function
+- SyntaxError - invalid names: 
++ it does not begin with a letter. eg: 1name
++ it contains an illegal character. eg: more$
++ it is one of the Python keywords. eg: break
